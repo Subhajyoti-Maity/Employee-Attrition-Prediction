@@ -19,10 +19,10 @@ After running the Streamlit application, you will see output in your terminal si
 Below are screenshots of the Employee Attrition Prediction app in action:
 
 ### 1. High Attrition Risk Prediction
-![High Attrition Risk](screenshots/high_attrition_risk.png)
+![High Attrition Risk](/screenshots/high_attrition_risk.png)
 
 ### 2. Low Attrition Risk Prediction (Stable Manager)
-![Low Attrition Risk](screenshots/low_attrition_risk.png)
+![Low Attrition Risk](/screenshots/low_attrition_risk.png)
 
 # Employee Attrition Prediction
 
