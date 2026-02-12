@@ -10,7 +10,7 @@ A Streamlit-based machine learning app that predicts employee attrition risk fro
 - Employee overview table for the selected inputs
 - Modern UI styling with custom theme and layout
 
-## 🖼️ 3. Demo Screenshots
+## 🎬 3. Demo Clips
 
 ### 3.1 High Attrition Risk Example
 This example shows an employee with high risk of attrition:
