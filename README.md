@@ -34,13 +34,17 @@ The prediction pipeline uses a trained classification model with one-hot encoded
 - JobRole
 
 ## 📈 5. Performance Metrics
-XGBoost classification report (test split):
 
-- Accuracy: 0.86
-- Macro avg (precision/recall/F1): 0.74 / 0.64 / 0.67
-- Weighted avg (precision/recall/F1): 0.84 / 0.86 / 0.84
-- Non-attrition (False) precision/recall/F1: 0.88 / 0.96 / 0.92
-- Attrition (True) precision/recall/F1: 0.60 / 0.32 / 0.42
+**XGBoost Model Performance (Test Set)**
+
+| Metric | Precision | Recall | F1-Score |
+|--------|-----------|--------|----------|
+| Non-Attrition (False) | 0.88 | 0.96 | 0.92 |
+| Attrition (True) | 0.60 | 0.32 | 0.42 |
+| **Macro Avg** | **0.74** | **0.64** | **0.67** |
+| **Weighted Avg** | **0.84** | **0.86** | **0.84** |
+
+**Overall Accuracy: 0.86 (86%)**
 
 ## 🗂️ 6. Dataset Link
 This project uses the IBM HR Analytics Employee Attrition dataset (CSV in this repo). Original source:
